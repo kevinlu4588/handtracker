@@ -1,0 +1,10 @@
+opencv-python==4.8.1.78
+mediapipe==0.10.21
+numpy==1.26.4
+torch==2.3.0
+diffusers==0.31.0
+transformers==4.41.0
+accelerate==0.30.1
+huggingface-hub==0.26.2
+safetensors==0.4.3
+pillow==10.3.0 
